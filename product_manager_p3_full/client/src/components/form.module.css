@@ -1,0 +1,33 @@
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+
+}
+
+div {
+    margin: 0 auto;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+button {
+    margin: 0 auto;
+    width: 150px;
+}
+
+label {
+    margin-right: 40px;
+    font-size: larger;
+}
+
+.buttons {
+
+    display: flex;
+    flex-direction: row;
+}
+.link {
+    font-size: larger;
+}
