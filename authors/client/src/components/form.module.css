@@ -1,0 +1,52 @@
+.form {
+    margin: 0 auto;
+    margin-top: 80px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+button {
+    margin: 0 auto;
+    width: 150px;
+}
+
+.table {
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 1000px;
+    
+}
+
+.th {
+    display: flex;
+
+}
+
+.th button {
+    width: 100px;
+}
+a {
+    margin-right: 50px;
+    width: 150px;
+}
+
+.jin {
+    margin-left: 50px;
+}
+h4 {
+    margin-right: 340px;
+    font-size: large;
+    color: lightcoral;
+}
+
+.error {
+    margin: 0 auto;
+    margin-top: 150px;
+    font-size: x-large;
+}
+
+.redirect {
+    margin-top: 500px;
+    border: 1px black solid;
+}
