@@ -1,0 +1,16 @@
+.nav {
+  height: 60px;
+  display: flex;
+  gap: 5px;
+
+
+}
+a {
+
+  margin-top: 30px;
+  font-size: x-large;
+}
+span {
+  margin-top: 30px;
+  font-size: x-large;
+}

@@ -1,0 +1,33 @@
+.container {
+    margin-top: 30px;
+    border: 1px black solid;
+    height: 800px;
+    padding: 100px;
+}
+
+.list {
+    border: 1px black solid;
+    height: 100%;
+
+}
+.group {
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+    height: 100px;
+}
+
+.group input , .group label {
+    margin: 0 auto;
+    font-size: x-large;
+    color: #83c5be;
+
+}
+.group input {
+    
+    width: 300px;
+}
+
+button {
+    margin-left: 810px;
+}
