@@ -9,6 +9,7 @@ const All = (props) => {
     const strAscending = [...authors].sort((a, b) =>
         a.firstName > b.firstName ? 1 : -1,
     );
+    // this for the bonus sorting the names alphabetically
     const updateHandler = (e) => {
         e.preventDefault();
         navigate(`/${e.target.getAttribute("id")}/update`)
