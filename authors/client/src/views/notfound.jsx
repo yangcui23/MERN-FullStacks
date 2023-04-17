@@ -10,6 +10,7 @@ const NotFound = () => {
             <div>
             <Link to={'/new'} className='btn btn-primary mt-5'>Create Author</Link>
             <Link to={'/'} className="btn btn-success mt-5">Home</Link>
+            // this is for the bonus
             </div>
         </div>
     )
